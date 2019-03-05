@@ -1,5 +1,5 @@
 # BLE-Hack
-## Awesome BLE hack repository ##
+## Awesome BLE hack story ##
 [Don't worry about being locked with Loccess](https://www.eyeohtee.cheap/dont-worry-about-being-locked-with-loccess/)  
 [Bluetooth Low Energy : Build, Recon,Enumerate and Attack !](http://oxhat.blogspot.com/2018/11/bluetooth-low-energy-pentesting.html)  
 [BLE mobile application independent access](https://logicaltrust.github.io/ble/)  
