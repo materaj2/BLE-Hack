@@ -10,6 +10,7 @@
 [Exploiting Bluetooth Low Energy using Gattacker for IoT – Step-by-Step Guide](https://blog.attify.com/hacking-bluetooth-low-energy/)  
 [Totally Pwning the Tapplock Smart Lock](https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/)  
 [Is my toothbrush really smart?](https://download.ernw-insight.de/troopers/tr18/slides/TR18_NGI_BR_Is-my-toothbrush-really-smart.pdf)  
+[How I hacked my Xiaomi MiBand 2 fitness tracker](https://hakin9.org/how-i-hacked-my-xiaomi-miband-2-fitness-tracker%e2%80%8a-%e2%80%8aa-step-by-step-linux-guide-by-andrey-nikishaev/)
 
 ## Tool ##  
 [BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework ](https://github.com/DigitalSecurity/btlejuice)  
